@@ -1,0 +1,2 @@
+random 表示随机函数，在使用前要先输入 import random
+在下一行
