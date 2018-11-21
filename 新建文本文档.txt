@@ -3,3 +3,4 @@ random 表示随机函数，在使用前要先输入 import random
 
 
 nishishi 怎那么
+怎么回事
